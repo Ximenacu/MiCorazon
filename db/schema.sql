@@ -1,0 +1,6 @@
+-- DROP DATABASE
+DROP DATABASE IF EXISTS MiCorazon_db;
+
+-- CREATE DATABASE
+CREATE DATABASE MiCorazon_db;
+use MiCorazon_db;

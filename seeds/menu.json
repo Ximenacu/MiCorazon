@@ -1,0 +1,26 @@
+[
+    {
+      "type": "dulce",
+      "name": "oreja",
+      "price": "25",
+      "descr": "super ricas"
+    },
+    {
+        "type": "dulce",
+        "name": "conchas",
+        "price": "30",
+        "descr": "deliciosas!"
+    },
+    {
+        "type": "salado",
+        "name": "bagette",
+        "price": "45",
+        "descr": "wow!"
+    },
+    {
+        "type": "cafe",
+        "name": "americano",
+        "price": "45",
+        "descr": "bien hecho"
+    }
+  ]
